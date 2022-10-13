@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaserler&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
-<h4>Linguagens e **Serviços** em meu desenvolvimento</h4>
+<h4>Linguagens e Serviços em meu desenvolvimento</h4>
 <div style="display: inline_block"><br>
   <img align="center" alt="LucasErler-HTML" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="LucasErler-CSS" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -20,7 +20,6 @@
   <img align="center" alt="LucasErler-Azure" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   <img align="center" alt="LucasErler-PostgreSQL" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 </div>
-<br>
 <h4>Rede Social</h4>
 <div>
   <a href="https://www.linkedin.com/in/lucas-barina-erler-02204719b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
